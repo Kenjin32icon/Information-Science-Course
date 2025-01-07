@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information science github repository access token/Access token.md",
+                "file": "Year Three Term One/Year Three Term One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access token"
+              "title": "Year Three Term One"
             }
           }
         ],
@@ -188,9 +188,11 @@
   },
   "active": "690e2ac40c994974",
   "lastOpenFiles": [
-    "Year Three Term One/Year Three Term One.md",
+    "auto_push.sh",
+    "LICENSE",
     "Information science github repository access token/Access token.md",
     "Information science github repository access token",
+    "Year Three Term One/Year Three Term One.md",
     "Year Three Term One/COURSE TIMETABLE.md",
     "Year Three Term One/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION (HCI).md",
     "Year Three Term One/HUMAN COMPUTER INTERACTION",
@@ -224,7 +226,6 @@
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometric indicators.md",
     "Year Three Term One/Bibliometrics and Scientometrics/bibliometrics.md",
     "Year Three Term One/Bibliometrics and Scientometrics/Descriptive metrics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Evaluative metrics.md",
     "Input"
   ]
 }
