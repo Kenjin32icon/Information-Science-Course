@@ -1,0 +1,16 @@
+{
+  "ocrProviderName": "Tesseract",
+  "ocrProviderSettings": {},
+  "fuzzySearch": true,
+  "caseSensitive": true,
+  "ocrImage": true,
+  "ocrPDF": true,
+  "concurrentIndexingProcesses": 4,
+  "additionalSearchPath": "",
+  "density": 300,
+  "quality": 98,
+  "additionalImagemagickArgs": "",
+  "showTips": true,
+  "logToFile": false,
+  "logLevel": "debug"
+}
