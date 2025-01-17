@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Memory System Design.md",
+                "file": "Memory System Design I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Memory System Design"
+              "title": "Memory System Design I"
             }
           }
         ]
@@ -167,9 +167,17 @@
   },
   "active": "b30d181321bab448",
   "lastOpenFiles": [
+    "Year Three Term One/computer architecture/5. Memory System Design/5. Memory System Design.md",
+    "Memory System Design I.md",
+    "Year Three Term One/computer architecture/5. Memory System Design/EEPROM.md",
+    "Year Three Term One/computer architecture/5. Memory System Design/EPROM.md",
+    "Untitled.md",
+    "Year Three Term One/computer architecture/5. Memory System Design/FEPROM.md",
+    "Year Three Term One/computer architecture/5. Memory System Design/mask-programmed ROM.md",
+    "Year Three Term One/computer architecture/5. Memory System Design/PROM.md",
+    "Untitled",
     "Year Three Term One/computer architecture/5. Memory System Design",
     "Year Three Term One/computer architecture/Computer Architecture.md",
-    "5. Memory System Design.md",
     "Year Three Term One/computer architecture/4. Computer Arithmetic/4. Computer Arithmetic.md",
     "Year Three Term One/computer architecture/4. Computer Arithmetic/binary.md",
     "Year Three Term One/computer architecture/4. Computer Arithmetic/Binary Arithmetic operations.md",
@@ -194,15 +202,7 @@
     "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Webometrics, Altmetrics, and Web Analytics.wav",
     "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Bibliometrics Laws_ Lotka, Bradford, Zipf, and Garfield.wav",
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Garfield’s Law.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Zipf’s Law.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Bradford’s Law.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Lotka’s Law.md",
-    "Lotka's Law.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/1. Bibliometrics and scientometrics indicators.md",
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Publication Count.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Introduction to Bibliometrics and Scientometrics.wav",
-    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Bibliometrics Indicators.wav",
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142843.png",
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142734.png",
     "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220141427.png",
