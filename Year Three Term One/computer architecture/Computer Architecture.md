@@ -1,6 +1,10 @@
 ## **[[1. Introduction]]**
 ## **[[2. Instruction Set Architecture and Design]]**
 ## **[[3. CPU Design]]**
+## **[[4. Computer Arithmetic]]**
+## **[[5. Memory System Design]]**
+
+
 
 ## Sample exercise 
 
