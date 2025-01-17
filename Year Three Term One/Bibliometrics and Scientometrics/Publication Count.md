@@ -1,1 +1,0 @@
-[[Bibliometrics and scientometrics indicators]]

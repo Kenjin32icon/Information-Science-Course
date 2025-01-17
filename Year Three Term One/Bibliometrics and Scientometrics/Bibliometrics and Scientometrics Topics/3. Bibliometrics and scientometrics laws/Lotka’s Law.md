@@ -1,0 +1,2 @@
+[[1. Bibliometrics and scientometrics laws]]
+Lotka's Law, also known as the Law of Scientific Productivity, predicts the distribution of authorship in scientific publishing. It states that the number of authors producing a certain number of publications decreases as the number of publications increases. Lotka observed that 60% of contributors publish only one article.

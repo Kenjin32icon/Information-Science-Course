@@ -1,0 +1,2 @@
+[[1. Bibliometrics and scientometrics laws]]
+Garfield's Law, developed by Eugene Garfield, suggests that the core literature in any scientific field is typically found in a small group of highly cited or multidisciplinary journals, indicating that a general science library doesn't need as many journals as a specialized library focused on a specific discipline.

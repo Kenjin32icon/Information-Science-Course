@@ -4,45 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f564ed9853b2d653",
-        "type": "tabs",
+        "id": "2d3fb38c434c7743",
+        "type": "split",
         "children": [
           {
-            "id": "c61baa67b49830f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
+            "id": "f564ed9853b2d653",
+            "type": "tabs",
+            "dimension": 45.66074950690335,
+            "children": [
+              {
+                "id": "690e2ac40c994974",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/1. Introduction to bibliometrics and scientometrics/1. Introduction to bibliometrics and scientometrics.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. Introduction to bibliometrics and scientometrics"
+                }
+              }
+            ]
           },
           {
-            "id": "b4518d68a8f4d587",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "690e2ac40c994974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year Three Term One/Year Three Term One.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Year Three Term One"
-            }
+            "id": "c71618ba151476dd",
+            "type": "tabs",
+            "dimension": 54.33925049309665,
+            "children": [
+              {
+                "id": "b30d181321bab448",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Year Three Term One/Bibliometrics and Scientometrics/1. BIBLIOMETRICS AND SCIENTOMETRICS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. BIBLIOMETRICS AND SCIENTOMETRICS"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406.5
   },
   "right": {
     "id": "b63be6621dbad635",
@@ -114,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architecture.md",
+                "file": "Year Three Term One/SYSTEMS ANALYSIS AND DESIGN/SYSTEMS ANALYSIS AND DESIGN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Computer Architecture"
+              "title": "Backlinks for SYSTEMS ANALYSIS AND DESIGN"
             }
           },
           {
@@ -160,17 +168,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Architecture.md"
+                "file": "Year Three Term One/SYSTEMS ANALYSIS AND DESIGN/SYSTEMS ANALYSIS AND DESIGN.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Computer Architecture"
+              "title": "Outline of SYSTEMS ANALYSIS AND DESIGN"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,46 +194,52 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "690e2ac40c994974",
+  "active": "b30d181321bab448",
   "lastOpenFiles": [
-    "auto_push.sh",
-    "LICENSE",
-    "Information science github repository access token/Access token.md",
-    "Information science github repository access token",
-    "Year Three Term One/Year Three Term One.md",
-    "Year Three Term One/COURSE TIMETABLE.md",
-    "Year Three Term One/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION (HCI).md",
-    "Year Three Term One/HUMAN COMPUTER INTERACTION",
-    "Year Three Term One/HUMAN COMPUTER INTERACTION/PURPOSE OF THE COURSE (HCI).md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Summarized version.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Answers.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Long detailed version.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/social network analysis.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220142843.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220142734.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220141427.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220134903.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Citation analysis.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220133247.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220133042.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220133030.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220132353.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Pasted image 20241220132341.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Scholarly communication and open access publishing.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics laws.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics indicators.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Introduction to bibliometrics and scientometrics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Citations.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Publication Count.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Assigned indicators.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Derived indicators.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Direct indicators.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometric indicators.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/bibliometrics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Descriptive metrics.md",
-    "Input"
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/8. Research production in Kenya/Research production in Kenya.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/1. Introduction to bibliometrics and scientometrics/Evaluative metrics.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/1. Introduction to bibliometrics and scientometrics/1. Introduction to bibliometrics and scientometrics.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Summarized version.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Answers.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Long detailed version.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers",
+    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/1. BIBLIOMETRICS AND SCIENTOMETRICS EXAM.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Untitled",
+    "Year Three Term One/Bibliometrics and Scientometrics/1. BIBLIOMETRICS AND SCIENTOMETRICS.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/7. Webometrics,  Altmetrics and Web analytics/1. Webometrics,  Altmetrics and Web analytics.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/6. Citation analysis/Citation analysis.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/5. social network analysis/social network analysis.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Introduction to Social Network Analysis.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/4. Scholarly communication and open access publishing/Scholarly communication and open access publishing.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Open Access Scholarly Publishing.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/1. Bibliometrics and scientometrics laws.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Webometrics, Altmetrics, and Web Analytics.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Bibliometrics Laws_ Lotka, Bradford, Zipf, and Garfield.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Garfield’s Law.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Zipf’s Law.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Bradford’s Law.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/3. Bibliometrics and scientometrics laws/Lotka’s Law.md",
+    "Lotka's Law.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/1. Bibliometrics and scientometrics indicators.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Publication Count.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Citations.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Assigned indicators.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Derived indicators.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Direct indicators.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/2. Bibliometrics and scientometrics indicators/Bibliometric indicators.md",
+    "librametry.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Introduction to Bibliometrics and Scientometrics.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast/Bibliometrics Indicators.wav",
+    "Year Three Term One/Bibliometrics and Scientometrics/Audio podcast",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142843.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142734.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220141427.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220134903.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133247.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133042.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133030.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132353.png",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132341.png"
   ]
 }
