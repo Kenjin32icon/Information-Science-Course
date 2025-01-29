@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/Memory System Design II.md",
+                "file": "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory System Design II"
+              "title": "HTML Tables, Links and Lists"
+            }
+          }
+        ]
+      },
+      {
+        "id": "36e5802deb8672fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79aaf620c815281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML Tables, Links and Lists"
             }
           }
         ]
@@ -165,52 +185,53 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "ab1817798793d15d",
+  "active": "b30d181321bab448",
   "lastOpenFiles": [
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/Memory System Design II Summary Notes.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/Memory System Design II.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/Memory System Design II Exercise.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/EEPROM.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/ROM.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II/Static CMOS.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design I/Memory System Design I.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design I/Memory System Design I Exercise.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design I/Memory System Design I notes.md",
-    "Year Three Term One/computer architecture/Computer Architecture.md",
-    "Year Three Term One/computer architecture/1. Introduction/1. Introduction.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/5. Memory System Design.md",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts/Memory System Design II.wav",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts/Memory System Design I_ Cache Memory.wav",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts/CPU Design_ Datapath and Control.wav",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts/Instruction Set Architecture and Design.wav",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts/Fundamentals of Computer Organization and Architecture.wav",
-    "Year Three Term One/computer architecture/Computer Architecture audio podcasts",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design II",
-    "Year Three Term One/computer architecture/5. Memory System Design/Memory System Design I",
-    "Year Three Term One/computer architecture/5. Memory System Design/EPROM.md",
-    "Untitled.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/FEPROM.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/mask-programmed ROM.md",
-    "Year Three Term One/computer architecture/5. Memory System Design/PROM.md",
-    "Untitled",
-    "Year Three Term One/computer architecture/5. Memory System Design",
-    "Year Three Term One/computer architecture/4. Computer Arithmetic/4. Computer Arithmetic.md",
-    "Year Three Term One/computer architecture/4. Computer Arithmetic/binary.md",
-    "Year Three Term One/computer architecture/4. Computer Arithmetic/Binary Arithmetic operations.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/1. BIBLIOMETRICS AND SCIENTOMETRICS.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/8. Research production in Kenya/Research production in Kenya.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/1. Introduction to bibliometrics and scientometrics/Evaluative metrics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/1. Introduction to bibliometrics and scientometrics/1. Introduction to bibliometrics and scientometrics.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Summarized version.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Answers.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142843.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142734.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220141427.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220134903.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133247.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133042.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133030.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132353.png",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132341.png"
+    "Note Narration Audio/HTML_Tables,_Links_and_Lists_-_Jan_29_2025_11:30.mp3",
+    "Year Three Term One/Web Design/6. HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors.md",
+    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
+    "Note Narration Audio/HTML_Tables,_Links_and_Lists_-_Jan_29_2025_11:26.mp3",
+    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists.md",
+    "Year Three Term One/Web Design/Web design CAT 2 (Working Website).md",
+    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists",
+    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/HTML Formatting, Elements, Attributes.md",
+    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists",
+    "Year Three Term One/Web Design/Web design Course outline.md",
+    "Designing Websites (Features of a good website).md",
+    "Note Narration Audio/HTML_Formatting,_Elements,_Attributes_-_Jan_29_2025_11:13.mp3",
+    "Year Three Term One/Web Design/3. Designing Websites (Features of a good website)/Designing Websites (Features of a Good Website).md",
+    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes.md",
+    "Year Three Term One/Web Design/3. Designing Websites (Features of a good website)/Documents discuss topics relevant to Week 3 Designing Websites (Features of a good website)/Documents discuss topics relevant to Week 3 Designing Websites (Features of a good website).md",
+    "Year Three Term One/Web Design/6. HTML Editors/HTML Editors.md",
+    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes",
+    "Year Three Term One/Web Design/9. Web design CAT 2 (Working Website)",
+    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes",
+    "Year Three Term One/Web Design/5. Web design cat 1/Web design CAT 1 (Continuous Assessment Test 1).md",
+    "Note Narration Audio/HTML_Editors_-_Jan_28_2025_13:17.mp3",
+    "Year Three Term One/Web Design/6. HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors",
+    "Year Three Term One/Web Design/6. HTML Editors",
+    "Introduction to HTML.md",
+    "Web design CAT 1 (Continuous Assessment Test 1).md",
+    "Year Three Term One/Web Design/4. Introduction to HTML/Introduction to HTML.md",
+    "Year Three Term One/Web Design/4. Introduction to HTML/Documents discuss topics relevant to Week 4 Introduction to HTML/Documents discuss topics relevant to Week 4 Introduction to HTML.md",
+    "Year Three Term One/Web Design/1. Introduction to HTML Programming/Introduction to HTML Programming.md",
+    "Year Three Term One/Web Design/2. The Internet and the Web/The Internet and the Web.md",
+    "Year Three Term One/Web Design/1. Introduction to HTML Programming/Documents discuss topics relevant to Week 1 Introduction to HTML Programming/Documents discuss topics relevant to Week 1 Introduction to HTML Programming.md",
+    "Year Three Term One/Web Design/2. The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web.md",
+    "Year Three Term One/Exams/Past Exam images.md",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.34 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.29 AM.jpeg",
+    "Year Three Term One/Web Design/Web Design exam.md",
+    "Year Three Term One/Year Three Term One Exam time table.md",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-21 at 2.38.11 PM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.39 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.36 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.35 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.58 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.55 AM.jpeg",
+    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.52 AM.jpeg",
+    "Year Three Term One/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION (HCI).md",
+    "Year Three Term One/Year Three Term One.md",
+    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142843.png"
   ]
 }
