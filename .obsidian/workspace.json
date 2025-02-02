@@ -4,44 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "c71618ba151476dd",
-        "type": "tabs",
+        "id": "80686daff639a663",
+        "type": "split",
         "children": [
           {
-            "id": "b30d181321bab448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
-                "mode": "source",
-                "source": false
+            "id": "5e302f53a53b250e",
+            "type": "tabs",
+            "dimension": 80.19801980198021,
+            "children": [
+              {
+                "id": "b1cc815e636add60",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               },
-              "icon": "lucide-file",
-              "title": "HTML Tables, Links and Lists"
-            }
-          }
-        ]
-      },
-      {
-        "id": "36e5802deb8672fa",
-        "type": "tabs",
-        "children": [
+              {
+                "id": "702636c11e69c997",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Year Three Term One/MAIN INFORMATION/Web Design/units/3. Designing Websites (Features of a good website)/Designing Websites (Features of a Good Website).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Designing Websites (Features of a Good Website)"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
           {
-            "id": "d79aaf620c815281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML Tables, Links and Lists"
-            }
+            "id": "071d28a096fddbd8",
+            "type": "tabs",
+            "dimension": 19.801980198019802,
+            "children": [
+              {
+                "id": "33643b1f2060768c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Year Three Term One/MAIN INFORMATION/Web Design/units/3. Designing Websites (Features of a good website)/Designing Websites (Features of a Good Website).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Designing Websites (Features of a Good Website)"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -60,7 +80,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,53 +206,53 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "b30d181321bab448",
+  "active": "702636c11e69c997",
   "lastOpenFiles": [
-    "Note Narration Audio/HTML_Tables,_Links_and_Lists_-_Jan_29_2025_11:30.mp3",
-    "Year Three Term One/Web Design/6. HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors.md",
-    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/HTML Tables, Links and Lists.md",
-    "Note Narration Audio/HTML_Tables,_Links_and_Lists_-_Jan_29_2025_11:26.mp3",
-    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists.md",
-    "Year Three Term One/Web Design/Web design CAT 2 (Working Website).md",
-    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists/Documents discuss topics relevant to Weeks 9-10 HTML Tables, Links, and Lists",
-    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/HTML Formatting, Elements, Attributes.md",
-    "Year Three Term One/Web Design/8. HTML Tables, Links and Lists",
-    "Year Three Term One/Web Design/Web design Course outline.md",
-    "Designing Websites (Features of a good website).md",
-    "Note Narration Audio/HTML_Formatting,_Elements,_Attributes_-_Jan_29_2025_11:13.mp3",
-    "Year Three Term One/Web Design/3. Designing Websites (Features of a good website)/Designing Websites (Features of a Good Website).md",
-    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes.md",
-    "Year Three Term One/Web Design/3. Designing Websites (Features of a good website)/Documents discuss topics relevant to Week 3 Designing Websites (Features of a good website)/Documents discuss topics relevant to Week 3 Designing Websites (Features of a good website).md",
-    "Year Three Term One/Web Design/6. HTML Editors/HTML Editors.md",
-    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes/Documents discuss topics relevant to  Weeks 7 – 9 HTML Formatting, Elements, Attributes",
-    "Year Three Term One/Web Design/9. Web design CAT 2 (Working Website)",
-    "Year Three Term One/Web Design/7. HTML Formatting, Elements, Attributes",
-    "Year Three Term One/Web Design/5. Web design cat 1/Web design CAT 1 (Continuous Assessment Test 1).md",
-    "Note Narration Audio/HTML_Editors_-_Jan_28_2025_13:17.mp3",
-    "Year Three Term One/Web Design/6. HTML Editors/Documents discuss topics relevant to Week 6  HTML Editors",
-    "Year Three Term One/Web Design/6. HTML Editors",
-    "Introduction to HTML.md",
-    "Web design CAT 1 (Continuous Assessment Test 1).md",
-    "Year Three Term One/Web Design/4. Introduction to HTML/Introduction to HTML.md",
-    "Year Three Term One/Web Design/4. Introduction to HTML/Documents discuss topics relevant to Week 4 Introduction to HTML/Documents discuss topics relevant to Week 4 Introduction to HTML.md",
-    "Year Three Term One/Web Design/1. Introduction to HTML Programming/Introduction to HTML Programming.md",
-    "Year Three Term One/Web Design/2. The Internet and the Web/The Internet and the Web.md",
-    "Year Three Term One/Web Design/1. Introduction to HTML Programming/Documents discuss topics relevant to Week 1 Introduction to HTML Programming/Documents discuss topics relevant to Week 1 Introduction to HTML Programming.md",
-    "Year Three Term One/Web Design/2. The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web.md",
-    "Year Three Term One/Exams/Past Exam images.md",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.34 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.29 AM.jpeg",
-    "Year Three Term One/Web Design/Web Design exam.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/units/2. The Internet and the Web/The Internet and the Web.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/units/3. Designing Websites (Features of a good website)/Designing Websites (Features of a Good Website).md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/units/2. The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web/Documents discuss topics relevant to Week 2 The Internet and the Web.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/units/1. Introduction to HTML Programming/Introduction to HTML Programming.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/Web Design past exam/exam question.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/Web Design past exam/Web Design exam.md",
+    "Year Three Term One/MAIN INFORMATION/Web Design/1. process of designing a website.md",
+    "Note Narration Audio/exam_question_-_Feb_02_2025_12:22.mp3",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/9. Information Technology in Enterprise Management/Information Technology in Enterprise Management.md",
+    "Note Narration Audio/note_-_Feb_01_2025_18:46.mp3",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/ENTREPRENEURSHIP DEVELOPMENT COURSE CONTENT.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/9. Information Technology in Enterprise Management",
     "Year Three Term One/Year Three Term One Exam time table.md",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-21 at 2.38.11 PM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.39 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.36 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.41.35 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.58 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.55 AM.jpeg",
-    "Year Three Term One/Exams/WhatsApp Image 2025-01-16 at 11.40.52 AM.jpeg",
-    "Year Three Term One/HUMAN COMPUTER INTERACTION/HUMAN COMPUTER INTERACTION (HCI).md",
-    "Year Three Term One/Year Three Term One.md",
-    "Year Three Term One/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220142843.png"
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/8. Enterprise Management",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/7. Entrepreneurial Competences",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/6. Enterprise Growth",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/5. Business Environment",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/5. Business Environment/Business Environment.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/8. Enterprise Management/Enterprise Management.md",
+    "Note Narration Audio/Enterprise_Management_-_Feb_01_2025_16:37.mp3",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/6. Enterprise Growth/Enterprise Growth.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/7. Entrepreneurial Competences/Entrepreneurial Competences.md",
+    "Note Narration Audio/note_-_Feb_01_2025_16:20.mp3",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/ENTREPRENEURSHIP EDUCATION SERVICE.md",
+    "Year Three Term One/COURSE TIMETABLE.md",
+    "Note Narration Audio/note_-_Feb_01_2025_14:14.mp3",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/4. Entrepreneurial Motivation/Entrepreneurial Motivation.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/1. Introduction to Entrepreneurship/Introduction to Entrepreneurship.md",
+    "Year Three Term One/Distilled version/DISTILLED ENTREPRENEURSHIP EDUCATION SERVICE/1.Entrepreneurship units COURSE CONTENT detailed summary/Entrepreneurship units COURSE CONTENT detailed summary.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/Past exams/entrepreneur QUESTIONs.md",
+    "WhatsApp.md",
+    "![[WhatsApp.md",
+    "Year Three Term One/MAIN INFORMATION/Exams/Past Exam images.md",
+    "image.md",
+    "Year Three Term One/ENTREPRENEURSHIP EDUCATION SERVICE/Past exams/Untitled 1.md",
+    "Year Three Term One/MAIN INFORMATION/ENTREPRENEURSHIP EDUCATION SERVICE/topics/3. The Entrepreneur/The Entrepreneur.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132353.png",
+    "- visual selection(2).png",
+    "- visual selection(1).png",
+    "- visual selection.png",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.34 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.29 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-21 at 2.38.11 PM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.39 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.36 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.35 AM.jpeg"
   ]
 }

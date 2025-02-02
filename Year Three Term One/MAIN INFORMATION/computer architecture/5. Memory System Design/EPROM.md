@@ -1,0 +1,2 @@
+[[5. Memory System Design]]
+**EPROM**: **Erasable Programmable ROM** is a reprogrammable ROM that allows the stored data to be erased and new data to be written. This is achieved using special transistors that can be switched between normal and disabled states by trapping or removing electrical charge under their gates. Erasing an EPROM requires exposing the chip to ultraviolet light, which resets all memory cells. EPROMs are commonly used in prototyping.

@@ -1,2 +1,0 @@
-[[1. Bibliometrics and scientometrics laws]]
-Zipf's Law, formulated by George Kingsley Zipf in 1935, is a statistical formula that explains the frequency of words in scientific publications. It states that the frequency of a word is inversely proportional to its rank, with the most frequent word occurring twice as often as the second most frequent word. This results in a small number of words appearing frequently, while a large number occur rarely.

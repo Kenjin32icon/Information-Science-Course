@@ -1,0 +1,2 @@
+[[1. Webometrics,  Altmetrics and Web analytics]]
+**Web analytics focuses on analyzing the behavior of visitors to a website.** It's often used as part of customer relationship management analytics to understand how users interact with a site and tailor the online experience accordingly. 

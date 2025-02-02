@@ -1,0 +1,2 @@
+[[5. Memory System Design]]
+- **EEPROM**: **Electrically Erasable Programmable ROM** is a type of ROM where data can be erased and reprogrammed electrically. Unlike [[EPROM]]s, EEPROMs allow selective erasure of individual cells without affecting the entire chip. Like [[FEPROM]]s, they are suitable for applications that require occasional data updates.

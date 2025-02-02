@@ -1,2 +1,0 @@
-[[5. Memory System Design]]
-- **ROM**: **Read-Only Memory** is a type of non-volatile memory that retains stored information even when the power is turned off. Its contents are permanently set during manufacturing and cannot be modified by the user. ROM is primarily used to store fixed instructions, such as the computer's boot subroutines or microcode

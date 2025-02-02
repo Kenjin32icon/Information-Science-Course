@@ -1,2 +1,0 @@
-[[1. Bibliometrics and scientometrics laws]] 
-Bradford's Law, also known as the Law of Scattering, explains the distribution of articles on specific subjects across journals. It identifies three types of scattering: lexical, semantic, and subject. Bradford's Law suggests that a small core of journals accounts for one-third of articles, followed by a larger group. This law has practical applications in collection development, indexing, and information retrieval.

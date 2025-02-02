@@ -1,2 +1,0 @@
-[[5. Memory System Design]]
-- **PROM**: **Programmable ROM** is a type of ROM that can be programmed once by the user. It contains fuses that can be selectively blown to represent the desired data pattern. This "burning" process permanently sets the data. While offering more flexibility than mask-programmed ROM, PROM is still limited to a single programming event.

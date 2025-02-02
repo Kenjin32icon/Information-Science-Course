@@ -12,7 +12,7 @@ TIMETABLE (SEPTEMBER-DECEMBER 2024)
 		Wednesday:- 
 [[FRENCH]]
 
-[[COMPUTER ARCHITECTURE]]
+[[Computer Architecture]]
 
 [[HUMAN COMPUTER INTERACTION (HCI)]]
 		Thursday:- 
