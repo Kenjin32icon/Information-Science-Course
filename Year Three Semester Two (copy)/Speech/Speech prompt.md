@@ -1,1 +1,0 @@
-create a motivational speech that would help student engage and collaborate with each other.  Let it spread the message of trust friendship community and encourage hard work in pursuing a dream that each one has. Taking into consideration for other people personal situation and hardships
