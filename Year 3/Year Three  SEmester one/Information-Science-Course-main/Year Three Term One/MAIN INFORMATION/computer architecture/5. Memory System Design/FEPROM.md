@@ -1,0 +1,2 @@
+[[5. Memory System Design]]
+- **FEPROM**: **Flash EPROM** is a type of [[EPROM]] that offers faster erasure and writing compared to traditional EPROMs. They are also more compact and can be removed from the device. FEPROMs are frequently used in applications that require occasional data updates, such as programmable TVs, VCRs, and automotive systems.

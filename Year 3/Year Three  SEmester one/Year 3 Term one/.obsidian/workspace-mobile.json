@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "9c7d4d8ed7ae746d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5152f187280d949e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fb3b62e8841ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datapath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datapath"
+            },
+            "group": "416b0a62b0a65055"
+          },
+          {
+            "id": "66bdf1851f6af0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam, 2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam, 2023"
+            }
+          },
+          {
+            "id": "8c5c336f8703dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer system architecture/COMPUTER ARCHITECTURE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMPUTER ARCHITECTURE"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e0fce5eed19890ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad1686616845381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datapath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datapath"
+            },
+            "group": "416b0a62b0a65055"
+          }
+        ]
+      },
+      {
+        "id": "4ebd4bb9089f867b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7bda8b40e204ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datapath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datapath"
+            },
+            "group": "416b0a62b0a65055"
+          }
+        ]
+      },
+      {
+        "id": "04ca2f97757e9fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc0f9ff1f72cdef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datapath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datapath"
+            },
+            "group": "416b0a62b0a65055"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68cffbed0ba0299f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "599c1841a200b832",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "327ac46003e3c667",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "811c92db1f4ae608",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e4fb276926aa7bc1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0c0ed97aad6007f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "59f6839772491a1e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bibliometrics and Scientometrics/Introduction to bibliometrics and scientometrics.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b614133df2da5f83",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Computer Architecture.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6fd7f56069d3ca97",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Computer Architecture.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c5c336f8703dd1a",
+  "lastOpenFiles": [
+    "Computer system architecture/2. Instruction Set Architecture and Design.md",
+    "Bibliometrics and Scientometrics/Introduction to bibliometrics and scientometrics.md",
+    "Evaluative metrics.md",
+    "Descriptive metrics.md",
+    "Bibliometrics and Scientometrics/scientometrics.md",
+    "Bibliometrics and Scientometrics/informetrics.md",
+    "Computer system architecture/Output Instructions.md",
+    "Bibliometrics and Scientometrics/Research production in Kenya.md",
+    "Bibliometrics and Scientometrics/bibliometrics.md",
+    "Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics.md",
+    "Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS.md",
+    "Year Three Term One/Year Three Term One.md",
+    "Year Three Term One",
+    "Computer system architecture/Technological Development.md",
+    "Computer system architecture/Sequencing Instructions.md",
+    "Computer system architecture/Performance Measures.md",
+    "Computer system architecture/Computer system architecture Exam, 2023.md",
+    "Computer system architecture/Historical Background.md",
+    "Computer system architecture",
+    "Bibliometrics and Scientometrics/Scholarly communication and open access publishing.md",
+    "Computer system architecture/Programming Examples.md",
+    "Bibliometrics and Scientometrics/Bibliometrics and scientometrics indicators.md",
+    "Bibliometrics and Scientometrics",
+    "Computer system architecture/CPU Basics.md",
+    "Bibliometrics and Scientometrics/Webometrics,  Altmetrics and Web analytics.md",
+    "Bibliometrics and Scientometrics/Citation analysis.md",
+    "Bibliometrics and Scientometrics/Bibliometrics and scientometrics laws.md",
+    "Computer system architecture/policy evaluation.md",
+    "Bibliometrics and Scientometrics/webometrics.md"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0ca62259fc8870b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f564ed9853b2d653",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61baa67b49830f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Instruction Set Architecture and Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Instruction Set Architecture and Design"
+            }
+          },
+          {
+            "id": "b4518d68a8f4d587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architectural Development and Styles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Architectural Development and Styles"
+            }
+          },
+          {
+            "id": "7aa631462a639715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Architecture"
+            }
+          },
+          {
+            "id": "690e2ac40c994974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architecture/3. CPU Design/2. CPU Basics/CPU Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CPU Basics"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ed7a20c340c8bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec244bcf7b36c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1817798793d15d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f5cd587d6c57aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4a154693239068e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b63be6621dbad635",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b47380417e63e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40478081963c2f2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer Architecture"
+            }
+          },
+          {
+            "id": "2a89877bc42134ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer Architecture"
+            }
+          },
+          {
+            "id": "a588d91b656762c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b825d183b09fc200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Architecture.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "690e2ac40c994974",
+  "lastOpenFiles": [
+    "Computer Architecture/3. CPU Design/3. CPU Design.md",
+    "Computer Architecture/3. CPU Design/1. Overview of CPU Design/Overview of CPU Design.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Instruction Set Architecture and Design podcast/Instruction Set Architecture and Design.wav",
+    "Computer Architecture/3. CPU Design/CPU Design podcast/CPU Design_ Datapath and Control.wav",
+    "Computer Architecture/1. Introduction/Introduction podcast/Fundamentals of Computer Organization and Architecture.wav",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder/1. Data Movement Instructions/Data Movement Instructions.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/2. Instruction Set Architecture and Design.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder/5. Programming Examples/Programming Examples.md",
+    "Computer Architecture/1. Introduction/unit folder/4. Performance Measures/Performance Measures.md",
+    "Computer Architecture/3. CPU Design/CPU Design podcast",
+    "Computer Architecture/3. CPU Design/Untitled",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder",
+    "Computer Architecture/1. Introduction/unit folder",
+    "Computer Architecture/3. CPU Design/6. Control Unit",
+    "Computer Architecture/3. CPU Design/6. Control Unit/Control Unit.md",
+    "Cost of hardware.md",
+    "Computer Architecture/3. CPU Design/5. CPU Instruction Cycle/CPU Instruction Cycle.md",
+    "Computer Architecture/3. CPU Design/5. CPU Instruction Cycle",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Instruction Set Architecture and Design podcast",
+    "Computer Architecture/3. CPU Design/4. Datapath/Datapath.md",
+    "Computer Architecture/3. CPU Design/3. Register Set/Register Set.md",
+    "Computer Architecture/3. CPU Design/2. CPU Basics/CPU Basics.md",
+    "Computer Architecture/Computer Architecture.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder/4. Input-Output Instructions/Input-Output Instructions.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder/3. Sequencing Instructions/Sequencing Instructions.md",
+    "Computer Architecture/1. Introduction/1. Introduction.md",
+    "Computer Architecture/2. Instruction Set Architecture and Design/Unit folder/2. Arithmetic and Logical Instructions/Arithmetic and Logical Instructions.md",
+    "Computer Architecture/1. Introduction/unit folder/3. Technological Development/Technological Development.md",
+    "Computer Architecture/1. Introduction/unit folder/2. Architectural Development and Styles/Architectural Development and Styles.md",
+    "Computer Architecture/1. Introduction/unit folder/1. Historical Background/Historical Background.md",
+    "Early.md",
+    "take.md",
+    "Welcome.md"
+  ]
+}

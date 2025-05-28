@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "0ca62259fc8870b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e302f53a53b250e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1cc815e636add60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/exam/answers/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ed7a20c340c8bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec244bcf7b36c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1817798793d15d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f5cd587d6c57aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4a154693239068e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "b63be6621dbad635",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b47380417e63e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40478081963c2f2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year Three Term One/SYSTEMS ANALYSIS AND DESIGN/SYSTEMS ANALYSIS AND DESIGN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SYSTEMS ANALYSIS AND DESIGN"
+            }
+          },
+          {
+            "id": "2a89877bc42134ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer Architecture"
+            }
+          },
+          {
+            "id": "a588d91b656762c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b825d183b09fc200",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year Three Term One/SYSTEMS ANALYSIS AND DESIGN/SYSTEMS ANALYSIS AND DESIGN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SYSTEMS ANALYSIS AND DESIGN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-ocr:Search OCR": false,
+      "edge-tts:Read note aloud": false
+    }
+  },
+  "active": "b1cc815e636add60",
+  "lastOpenFiles": [
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Systems Analysis and Design podcast/Systems Analysis and Design_ An Introduction(1).wav",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/exam/question.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/exam/answers/Untitled.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/exam/answers",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/ALLQ 3211 Information Systems Analysis and Design Course Syllabus.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/exam",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/10. System Development Methodologies/System Development Methodologies.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/WhatsApp Image 2025-01-16 at 11.40.58 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/10. System Development Methodologies",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/7. Modeling in Systems Analysis and Design/Modeling in Systems Analysis and Design.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/8. Systems Design Techniques - Object-Oriented Design/Systems Design Techniques - Object-Oriented Design.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/8. Systems Design Techniques - Object-Oriented Design",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/prompts.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/7. Modeling in Systems Analysis and Design",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/6. Systems Analysis/Systems Analysis.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/6. Systems Analysis",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/1. Introduction/Week 1, Systems Analysis and Design Introduction.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/5. cat 1/Untitled.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/4. Software Analysis and Design/Week 4, Software Analysis and Design.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/3. System Life Cycle Model techniques/Week 3, System Life Cycle Model techniques.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/5. cat 1",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Detailed Timeline of Main Events.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/Bibliometrics and Scientometrics Topics/Bibliometrics and Scientometrics Topics.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Long detailed version.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/BIBLIOMETRICS AND SCIENTOMETRICS EXAM/Answers/Summarized version.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/1. BIBLIOMETRICS AND SCIENTOMETRICS.md",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133247.png",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220133030.png",
+    "Year Three Term One/MAIN INFORMATION/Bibliometrics and Scientometrics/Bibliometrics and scientometrics images/Pasted image 20241220132341.png",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.40.52 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.40.55 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.35 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.29 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-16 at 11.41.36 AM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/Exams/WhatsApp Image 2025-01-21 at 2.38.11 PM.jpeg",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/RE.md",
+    "Note Narration Audio/note_-_Apr_05_2025_13:10.mp3",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/2. Systems Development Life Cycle/Week 2, Systems Development Life Cycle.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Topics/4. Software Analysis and Design",
+    "Note Narration Audio/note_-_Apr_05_2025_13:01.mp3",
+    "Year Three Term One/COURSE TIMETABLE.md",
+    "Year Three Term One/MAIN INFORMATION/HUMAN COMPUTER INTERACTION/1. topics/1. Introduction/Week 1, INTRODUCTION.md",
+    "Year Three Term One/MAIN INFORMATION/SYSTEMS ANALYSIS AND DESIGN/Thought process/SYSTEMS ANALYSIS AND DESIGN.md",
+    "Year Three Term One/MAIN INFORMATION/HUMAN COMPUTER INTERACTION/docs/prompts.md",
+    "Year Three Term One/Year Three Term One Exam time table.md",
+    "Year Three Term One/MAIN INFORMATION/Untitled.canvas",
+    "Year Three Term One/MAIN INFORMATION/1.  Web Design/units/2. The Internet and the Web/The Internet and the Web.md",
+    "Year Three Term One/MAIN INFORMATION/HUMAN COMPUTER INTERACTION/Untitled.canvas"
+  ]
+}

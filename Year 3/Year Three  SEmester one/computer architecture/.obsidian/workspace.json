@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "f8943870ade846d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8bd3ff7f1fd466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b9b63cc5186d4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "FUNDAMENTALS OF COMPUTER ORGANIZATION AND ARCHITECTURE .pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FUNDAMENTALS OF COMPUTER ORGANIZATION AND ARCHITECTURE"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd89727d6f060915",
+    "type": "split",
+    "children": [
+      {
+        "id": "19b4b651b7ddfeb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbd6f5cab55a9056",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "009847dbb16d3301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "024be4bc4583ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "935ad76a7843e562",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f72025b9a975d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73db57d3bb0cc6d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0547cb83b0a4196f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e6f346e1c11c7d9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7aa97d6da13717dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6b9b63cc5186d4d",
+  "lastOpenFiles": [
+    "[Mostafa_Abd-El-Barr__Hesham_El-Rewini]_Fundamenta(BookZZ.org).pdf",
+    "instruction set architecture and design.pdf",
+    "FUNDAMENTALS OF COMPUTER ORGANIZATION AND ARCHITECTURE .pdf"
+  ]
+}

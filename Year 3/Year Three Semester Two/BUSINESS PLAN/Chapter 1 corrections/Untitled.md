@@ -1,0 +1,1 @@
+From the current competitors analyze the current market share that KangaPages might have to compete with in paragraph form

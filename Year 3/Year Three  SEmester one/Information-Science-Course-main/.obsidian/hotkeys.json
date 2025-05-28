@@ -1,0 +1,10 @@
+{
+  "edge-tts:read-note-aloud": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ]
+}

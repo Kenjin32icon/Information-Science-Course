@@ -1,0 +1,14 @@
+# CHAPTER 1: BUSINESS DESCRIPTION
+### CUSTOM WEBSITES TAILOR MADE TO ACT AS SELF REFLECTION TO THE WORLD
+Website development for business and individuals. Using a Software as a Service model (Saas), this business plan if for developing and maintenance of custom website that have your own domain name for example; Client name: John Doe, Website name: www.johndoe.co.ke. They are tailor made to perform several functions that would increase the value image of a business or individual thus in turn increase the traffic flow of potential loyal customers to seek you the client as the go to for a particulate service or good to purchase. The website act as a social media management tool that links all the clients accounts like; LinkedIn, GitHub, Tiktok, YouTube, X, Pintrest etc. The website act as a repository for all you achievements from the small ones to the big ones. Using data analysis tools in the website you the client would be presented with a dashboard that has stylish easy to red and understand data visualizations graphs that could help you track trends on potential users that have a higher probability to be loyal customers that have a higher potential to help you value grow. Provide you with possible future sight from predictive analysis of you identified competitors and marketing needs that have not yet been identified that you could identify, solve them and gain a higher profit margin. 
+
+## _**1.1 Business Sponsors**_
+The owner of this business proposal is Lewis Kariuki. A Information Science student with a focus specialization in Informatics. Has additional certification in graphic design awarded by Canva , Responsive Website development from Freecode camp,  Data Science certification and Business Intelligence  from IBM Kenya. From those certification which were provided after proposed projects and exam they provide essential skills to provide this service. Some of the services include  Responsive website design, data analysis, Business Intelligence and Computer Literacy ensuring a steady increasing learning curve to ready made software systems that are integrated to those website. 
+
+## _**1.2 Business Name**_
+#### KangaPages
+
+## _**1.3 Business Location and Address**_
+The location of the business is located in the Star Shopping Mall in Nairobi CBD along Tom Mboya St, Nairobi 
+Street/Avenue: junction, Latema road, Tom Mboya St, Nairobi after the Odeon Cinema Building 
+Remote business with face to face meetings with clients for negotiation and specifics. With an office in Nairobi CBD with proper network infrastructure. Cheap office rentals, near available 

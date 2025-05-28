@@ -1,0 +1,3 @@
+1. from the sources provide me with the weekly course content in form of .md table
+2. Design detailed notes suitable for week one lecture that would help students easily read and understand week 1	 Discussion Topics; Introduction to Database management and construction.<br>Definition of Database management systems.<br>Method of learning: Lectures, group discussions, presentations, and research.
+3. 

@@ -1,0 +1,12 @@
+1. from the Course syllabus and plan in the ALLQ 3214 HCI COURSE OUTLINE extract a .md Course syllabus table
+2. Focusing on the Course syllabus table i will prompt you design detailed notes that are structured in an easy readable and understandable format for The topics that i well provide you from now
+3. design detailed notes for **Week 1** | **INTRODUCTION** - Definition of terms
+- Understanding Human Computer Interaction
+1. design detailed notes for  | Week 2   | **ELEMENTS OF HUMAN-GRAPHICAL USER INTERFACE**<br>- Overview on Human-Graphical User Interface Interaction<br>- Graphical User Interface<br>- Evolution of Graphical User Interface<br>- Interpretations on Human-Graphical User Interaction   
+2. design detailed notes for   | Week 3   | - Human Cognitive Skills<br>- Human Senses<br>- Gestalt Theories<br>- Effective Color Usage<br>- Diversity of Human Cognitive Skills<br>- Interaction Styles     
+3.  design detailed notes for | Week 4   | **FUNDAMENTALS ON DESIGN PROCESS OF GRAPHICAL USER INTERFACE**<br>Design Considerations<br>Concepts of Graphical User Interface Design<br>1. Learnability vs. Usability<br>2. Metaphors and Idioms<br>3. Intuitiveness<br>4. Consistency<br>5. Simplicity<br>6. Prevention<br>7. Forgiveness<br>8. Aesthetics<br><br>Phases of Design Process<br>Standards for Human Computer Interaction<br>Future Trends<br>Methods of measuring performance of user interfaces 
+4. design detailed notes for Week 6   | **Information Security and Insecurity**<br>- Need for information security         
+5.  design detailed notes for  Week 7   | - Need for information security                  
+6. design detailed notes for Week 8   | **Basic Ideas and Relations within the Field of Information Security**<br>- Encryption<br>- Internet security<br>- Safety measures and practical implementation   
+7. design detailed notes for Week 9   | **Threats to the Security of Information Systems**<br>- Concepts and applications of system and data security      
+8. design detailed notes for  Week 11  | **Introduction to**<br>Confidentiality<br>Integrity<br>Availability<br>Authentication technologies and models<br>Controls and protection models<br>Security kernels<br>Secure programming<br>Audit  
